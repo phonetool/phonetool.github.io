@@ -2,7 +2,6 @@ facebook.com, 184914275804007, DIRECT, c3e20eee3f780d68
 
 google.com, pub-3639043459218066, DIRECT, f08c47fec0942fa0
 
-#applovin
 applovin.com, 6bd013d284ecd00b16a5c531f7c25afc, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
@@ -36,11 +35,9 @@ xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 zmaticoo.com, 5135655, RESELLER
 
-#pangle
 pangleglobal.com, 5018105, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 
-#mtg
 mintegral.com, 44285, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
